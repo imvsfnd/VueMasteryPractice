@@ -1,9 +1,11 @@
 # Init
 
 - HTML
-    	<div id="app">
-       		<h1>{{ /product/ }}</h1>
-   		</div>		
+    <code>
+    	id="app
+       	用左右雙括號包覆data 例如 {{ *** }}
+   		
+    </code>		
 - JS
 	var app = new Vue ({
 		el: '#app',

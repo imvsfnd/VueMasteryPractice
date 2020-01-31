@@ -1,11 +1,9 @@
 # Init
 
 - HTML
-    <code>
     	<div id="app">
-       		<h1>{{ product }}</h1>
-   		</div>
-    </code>		
+       		<h1>{{ /product/ }}</h1>
+   		</div>		
 - JS
 	var app = new Vue ({
 		el: '#app',

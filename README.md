@@ -1,15 +1,10 @@
-# VueMasteryPractice
-
-## Init
+# Init
 
 - HTML
-	<code>
-	    <div id="app">
-	        <h1>{{ product }}</h1>
-	    </div>		
-	</code>
+    <div id="app">
+        <h1>{{ product }}</h1>
+    </div>		
 - JS
-	<code>
-		var app = new Vue ({
-		})		
-	</code>
+	var app = new Vue ({
+	
+	})		
